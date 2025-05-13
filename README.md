@@ -68,7 +68,7 @@ To develop a modular, scalable mobile solution that:
 
 ## 🙋‍♂️ Author
 
-**[Bendalam Rajeev]**  
+**Bendalam Rajeev**  
 
 ---
 

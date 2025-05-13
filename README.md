@@ -1,6 +1,6 @@
 # ⚙️ SMO – Sewing Machine Operator
 
-**SMO** (Smart Manufacturing Operations) is a modern Android application designed to enhance operational visibility and efficiency on the factory floor. Built with **Kotlin** and **Android Jetpack**, the app simulates a real-time production environment, providing dashboards for machine status, job tracking, and workforce management.
+**SMO** (Smart Machine Operator) is a modern Android application designed to enhance operational visibility and efficiency on the factory floor. Built with **Kotlin** and **Android Jetpack**, the app simulates a real-time production environment, providing dashboards for machine status, job tracking, and workforce management.
 
 ---
 
